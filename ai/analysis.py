@@ -1,6 +1,6 @@
 from email.mime import text
 from tracemalloc import start
-from turtle import heading
+
 
 import requests
 from config.gemini_config import GEMINI_API_KEY
