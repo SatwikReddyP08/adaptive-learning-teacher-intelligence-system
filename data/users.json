@@ -1,0 +1,38 @@
+[
+    {
+        "username": "satwik_1",
+        "email": "satwik_1@gmail.com",
+        "password": "pass01",
+        "role": "student"
+    },
+    {
+        "username": "satwik_t1",
+        "email": "satwik_t1@gmail.com",
+        "password": "pass01",
+        "role": "teacher"
+    },
+    {
+        "username": "satwik_2",
+        "email": "satwik_2@gmail.com",
+        "password": "pass02",
+        "role": "student"
+    },
+    {
+        "username": "satwik_3",
+        "email": "satwik_3@gmail.com",
+        "password": "pass03",
+        "role": "student"
+    },
+    {
+        "username": "satwik_4",
+        "email": "satwik_4@gmail.com",
+        "password": "pass04",
+        "role": "student"
+    },
+    {
+        "username": "satwik_5",
+        "email": "satwik_5@gmail.com",
+        "password": "pass05",
+        "role": "student"
+    }
+]

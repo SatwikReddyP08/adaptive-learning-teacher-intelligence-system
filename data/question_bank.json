@@ -1,0 +1,32 @@
+{
+  "Arrays": [
+    "Find the maximum subarray sum.",
+    "Rotate an array by k positions.",
+    "Find the duplicate number in an array."
+  ],
+  "Strings": [
+    "Check if a string is a palindrome.",
+    "Find the longest substring without repeating characters.",
+    "Count the number of vowels in a string."
+  ],
+  "Linked Lists": [
+    "Reverse a linked list.",
+    "Detect a cycle in a linked list.",
+    "Merge two sorted linked lists."
+  ],
+  "Stacks": [
+    "Implement a stack using arrays.",
+    "Evaluate a postfix expression.",
+    "Check for balanced parentheses."
+  ],
+  "Queues": [
+    "Implement a queue using two stacks.",
+    "Find the first non-repeating character in a stream.",
+    "Implement a circular queue."
+  ],
+  "Trees": [
+    "Perform inorder traversal of a binary tree.",
+    "Find the height of a binary tree.",
+    "Check if a binary tree is balanced."
+  ]
+}
